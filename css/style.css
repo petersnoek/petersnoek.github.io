@@ -1,0 +1,25 @@
+body {
+	color: white;
+	background-image: url('img/background.jpg');
+	font-family: 'Proza Libre', sans-serif;
+}
+
+ul {
+	display:inline-block;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: red;
+}
